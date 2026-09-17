@@ -1,0 +1,23 @@
+# Maven
+target/
+**/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# Local environment and secrets
+.env
+*.local
